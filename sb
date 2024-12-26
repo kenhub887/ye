@@ -1,10 +1,10 @@
                                                                                  local Rayfield=       
                                                                         loadstring(game:HttpGet(                        
                                                                     "https://sirius.menu/rayfield"))();local Window=Rayfield:     
-                                                                CreateWindow({Name="KEN HUB | Paid Script | South Bronx: The Trenches❗" 
+                                                                CreateWindow({Name="KEN HUB | Free Script | South Bronx: The Trenches❗" 
                                                             ,LoadingTitle="KEN's Paid Script",LoadingSubtitle="Created by ken._.9",       
                                                           ConfigurationSaving={Enabled=true,FolderName=KENHUB,FileName="ken hub"},Discord={ 
-                                                        Enabled=true,Invite="NBvmSdxfz9",RememberJoins=false},KeySystem=true,KeySettings={    
+                                                        Enabled=true,Invite="NBvmSdxfz9",RememberJoins=false},KeySystem=false,KeySettings={    
                                                       Title="Key System",Subtitle="Created by ken._.9",Note=                                    
                                                     "To get the key, add ken._.9 on discord",FileName="KENHUB KEY",SaveKey=true,GrabKeyFromSite=  
                                                   false,Key={"KENHUBKEY-C1DY21SFGVM1C134LADFC"}}});Rayfield:Notify({Title="Welcome To KEN HUB",     
