@@ -2,7 +2,7 @@
                                                                         loadstring(game:HttpGet(                        
                                                                     "https://sirius.menu/rayfield"))();local Window=Rayfield:     
                                                                 CreateWindow({Name="KEN HUB | Free Script | South Bronx: The Trenches❗" 
-                                                            ,LoadingTitle="KEN's Paid Script",LoadingSubtitle="Created by ken._.9",       
+                                                            ,LoadingTitle="KEN's free script",LoadingSubtitle="Created by ken._.9",       
                                                           ConfigurationSaving={Enabled=true,FolderName=KENHUB,FileName="ken hub"},Discord={ 
                                                         Enabled=true,Invite="NBvmSdxfz9",RememberJoins=false},KeySystem=false,KeySettings={    
                                                       Title="Key System",Subtitle="Created by ken._.9",Note=                                    
